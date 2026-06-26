@@ -1,2 +1,4 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/skitonline/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/skitonline/qa-engineer-project-84/actions)
+
+Repository contains testing artefacts for QA projects.
