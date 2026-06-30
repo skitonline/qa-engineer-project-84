@@ -1,6 +1,10 @@
 ---
 - summary: |
     Отображение каталога магазина 
+  status: pass
+
+- summary: |
+    Отображение рейтинга у товара в каталоге
   status: fail
 
 - summary: |
