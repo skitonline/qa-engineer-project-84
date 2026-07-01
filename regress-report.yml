@@ -169,4 +169,16 @@ bugreports:
     expected-result: |
       Товары в корзине остались такие же, как были до 2 пункта
     actual-result: |
-      Корзина пустая 
+      Корзина пустая :(
+      
+  - summary: |
+      Ломается кнопка навигации "next" 
+    environment: |
+      Safari Версия 26.5 (21624.2.5.11.4)
+      MacOS Tahoe Версия 26.5.1 (25F80)
+    steps-to-reproduce: |
+      1. Убираем чек бокс "In stock"
+    expected-result: |
+      Можем листать страницы
+    actual-result: |
+      Не можем листать страницы :(
